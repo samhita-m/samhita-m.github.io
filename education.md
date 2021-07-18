@@ -9,7 +9,7 @@ title: Education
 
 #### University of Illinois, Urbana-Champaign
 PhD Electrical and Computer Engineering (2020 - Present)
-* Selected Coursework: Reinforcement Learning • Control Systems
+* Selected Coursework: Reinforcement Learning • Control Systems • Computer Vision 
 * GPA: 4.0/4.0
 
 <p>&nbsp;</p>
