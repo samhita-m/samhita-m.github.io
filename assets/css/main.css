@@ -19,6 +19,7 @@ body {
   {% if site.page-img %}
   background-image: url({{ site.page-img | relative_url }});
   background-attachment: fixed;
+  width: 90%;
   {% endif %}
 }
 p {
