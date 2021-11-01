@@ -11,11 +11,11 @@ author: Samhita Marri
 
 # --- List of links in the navigation bar --- #
 
-navbar-links:
-  Education: "education"
-  Experience: "experience"
-  Projects: "projects"
-  Publications: "publications"
+#navbar-links:
+#  Education: "education"
+#  Experience: "experience"
+#  Projects: "projects"
+#  Publications: "publications"
 
 # --- Logo --- #
 
@@ -38,7 +38,7 @@ navbar-links:
 # If you don't want to show a link to an RSS feed, set rss to "false".
 social-network-links:
   email: "marri2@illinois.edu"
-  #facebook: deanattali
+  #facebook: 
   github: samhita-m
   twitter: m_samhita
   #rss: true

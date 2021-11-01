@@ -5,13 +5,9 @@ subtitle: Research Assistant at the University of Illinois Urbana-Champaign
 ---
 
 <p align = "justify"> 
-Hi, I'm a first year PhD student at the University of Illinois Urbana-Champaign in Electrical and Computer Engineering. I am a research assistant at Distributed Autonomous Systems Laboratory (DASLAB). I am passionate about applying computer vision and multi-agent coordination in agricultural systems. I am most skilled in ROS, Python, MATLAB and C++. <br />
+Hi, I'm a first year PhD student at the University of Illinois Urbana-Champaign in Electrical and Computer Engineering. I am a research assistant at Distributed Autonomous Systems Laboratory (DASLAB). I am passionate about applying computer vision and multi-agent coordination in agricultural systems. Prior to joining UIUC, I graduated from Cornell University with an MEng degree in Electrical and Computer Engineering in May 2020, where I had the honor of working with <a href="https://skovira.ece.cornell.edu/">Prof. Joseph Skovira</a> and <a href="https://www.verifiablerobotics.com/">Prof. Hadas Kress-Gazit</a>. I also interned for about a year at <a href="https://xallent.com/">Xallent LLC</a>. I am most skilled in ROS, Python, MATLAB and C++. 
 </p>
-
-
-
-Alongside my interests in agricultural robotics, some of my other interests and hobbies are:
-* Cooking
-* Painting
-* Video Games
-* Hiking 
+<br />
+<p align = "justify">
+Alongside my interests in agricultural robotics, some of my other interests and hobbies are cooking, painting, gaming and hiking. 
+</p>
