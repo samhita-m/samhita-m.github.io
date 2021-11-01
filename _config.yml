@@ -86,14 +86,14 @@ excerpt_length: 50
 
 # Personalize the colours in your website. Colour values can be any valid CSS colour
 
-navbar-col: "#000000"
-navbar-text-col: "#404040"
+navbar-col: "#FFFFFF"
+navbar-text-col: "#FFFFFF"
 navbar-border-col: "#EAEAEA"
 page-col: "#FFFFFF"
 text-col: "#404040"
-link-col: "#343d52"
+link-col: "#546E7A"
 hover-col: "#808080"
-footer-col: "#000000"
+footer-col: "#FFFFFF"
 footer-text-col: "#777777"
 footer-link-col: "#404040"
 
@@ -166,7 +166,7 @@ google_analytics: "G-18YGG0KM92"
 
 # Character used to separate site title and description in HTML document title
 # and RSS feed title
-title-separator: "-"
+title-separator: ""
 
 # Ruby Date Format to show dates of posts
 date_format: "%B %-d, %Y"
