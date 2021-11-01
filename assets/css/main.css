@@ -23,8 +23,8 @@ body {
 }
 p {
   line-height: 1.5;
-  width: 150em;
-  margin-left: -50%;
+  width: 40em;
+  margin-left: 0% 0%;
 }
 h1,h2,h3,h4,h5,h6 {
   font-family: 'Open Sans', 'Helvetica Neue', Helvetica, Arial, sans-serif;
