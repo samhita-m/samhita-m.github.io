@@ -19,12 +19,11 @@ body {
   {% if site.page-img %}
   background-image: url({{ site.page-img | relative_url }});
   background-attachment: fixed;
-  width: 120%;
   {% endif %}
 }
 p {
   line-height: 1.5;
-  width: 100rem;
+  width: 150;
   margin: 0.05rem 0;
 }
 h1,h2,h3,h4,h5,h6 {
