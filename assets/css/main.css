@@ -23,7 +23,8 @@ body {
 }
 p {
   line-height: 1.5;
-  width: 40em;
+  max-width:2000px !important;
+  padding: 0px !important;
   margin-left: 0% 0%;
 }
 h1,h2,h3,h4,h5,h6 {
