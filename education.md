@@ -32,7 +32,7 @@ MEng Electrical and Computer Engineering (2018 - 2020)
 
 #### Mahindra Ecole Centrale
 BTech Electricals and Eletronics Engineering (2014 - 2018)
-* Selected Coursework: Control Theory • Foundations of Robotics • Programmable Devices & Micro Processors  
+* Selected Coursework: Control Theory • Foundations of Robotics • Programmable Devices & Micro Processors 
 * Recipient of Annual Merit Scholarship
 * GPA: 9.89/10.0
 
