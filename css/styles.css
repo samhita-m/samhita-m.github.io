@@ -1328,7 +1328,7 @@ a:hover.back-to-top {
 	}
 
 	.header .text-container {
-		margin-top: 3.5rem;
+		margin-top: 0;
 	}
 	/* end of header */
 
@@ -1346,7 +1346,7 @@ a:hover.back-to-top {
 	}
 
 	.basic-1 .text-container {
-		margin-top: 3rem;
+		margin-top: 0;
 	}
 	/* end of introduction */
 
@@ -1371,7 +1371,7 @@ a:hover.back-to-top {
 	}
 
 	.basic-2 .text-container {
-		margin-top: 3.75rem;
+		margin-top: 0;
 	}
 
 	.basic-2 h2 {
@@ -1405,7 +1405,7 @@ a:hover.back-to-top {
 	}
 
 	.basic-4 .text-container {
-		margin-top: 3.5rem;
+		margin-top: 0;
 	}
 	/* end of details 3 */
 
@@ -1515,7 +1515,7 @@ a:hover.back-to-top {
 	}
 
 	.header .text-container {
-		margin-top: 6.5rem;
+		margin-top: 0;
 	}
 
 	.header img {
@@ -1527,7 +1527,7 @@ a:hover.back-to-top {
 
 	/* Introduction */
 	.basic-1 .text-container {
-		margin-top: 5rem;
+		margin-top: 0;
 	}
 	/* end of introduction */
 
@@ -1550,7 +1550,7 @@ a:hover.back-to-top {
 	}
 
 	.basic-2 .text-container {
-		margin-top: 6.5rem;
+		margin-top: 0;
 	}
 	/* end of details 1 */
 
@@ -1568,14 +1568,14 @@ a:hover.back-to-top {
 	}
 
 	.basic-3 .text-container {
-		margin-top: 4rem;
+		margin-top: 0;
 	}
 	/* end of details 2 */
 
 
 	/* Details 3 */
 	.basic-4 .text-container {
-		margin-top: 6rem;
+		margin-top: 0;
 	}
 	/* end of details 3 */
 
