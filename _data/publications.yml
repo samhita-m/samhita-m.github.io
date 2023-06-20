@@ -16,7 +16,7 @@
   title: "Automated Synthesis of Modular Manipulators’ Structure and Control for Continuous Tasks around Obstacles"
   venue: RSS 2020
   project_page: "https://roboticsconference.org/2020/program/papers/30.html"
-  image: thaisAutomated2020.jpg
+  image: thaisAutomated2020.png
   authors:
     - almedia
     - marri
@@ -28,7 +28,7 @@
   project_page: "https://www.samhitamarri.com/vs.github.io/"
   github: samhita-m/visual_servoing_soft_arm
   arxiv: 2202.05200
-  image: visual2022.jpg
+  image: visual2022.png
   authors:
     - kamtikar
     - marri
