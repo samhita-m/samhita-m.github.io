@@ -8,7 +8,7 @@ layout: null
   <meta content="text/html; charset=UTF-8" http-equiv="Content-Type">
 
   <meta content="width=device-width, initial-scale=1" name="viewport">
-  <title>Samhita Marri</title>
+  <title>{{ site.name }}</title>
   <!-- Global site tag (gtag.js) - Google Analytics -->
   <script async src="https://www.googletagmanager.com/gtag/js?id={{ site.google_analytics }}"></script>
   <script>
@@ -48,24 +48,24 @@ layout: null
 
         <div class="column">
           <h1 class="title">
-            <b>Hello, I'm a PhD candidate at the University of Illinois Urbana-Champaign in Electrical and Computer Engineering. I am currently working as a research assistant at Distributed Autonomous Systems Laboratory (<a style="font-weight: bold;" href="http://daslab.illinois.edu/">DASLAB</a>) with <a style="font-weight: bold;" href="http://daslab.illinois.edu/index.html#girish">Prof. Girish Chowdhary</a>. </p>
-                        <p class="p-large" align="justify">I am passionate about applying computer vision, motion planning and multi-agent coordination in agricultural systems. Combinining these areas, my current research is on developing systems and techniques to perform plant manipulation tasks like harvesting, pruning and health monitoring autonomously. Prior to joining UIUC, I graduated from Cornell University with an MEng degree in Electrical and Computer Engineering in May 2020, where I had the honor of working with <a style="font-weight: bold;" href="https://skovira.ece.cornell.edu/">Prof. Joseph Skovira</a> and <a style="font-weight: bold;" href="https://www.verifiablerobotics.com/">Prof. Hadas Kress-Gazit</a>. I also interned for about a year at <a style="font-weight: bold;" href="https://xallent.com/">Xallent LLC</a>. I am most skilled in ROS, Python, MATLAB and C++. Alongside my interests in agricultural robotics, some of my hobbies include cooking, painting, gaming and hiking. </b>
+            <b>Hello, I'm {{ site.name }}</b>
           </h1>
           <div class="content has-text-justified">
             {{ site.description | markdownify }}
             <div class="buttons">
+              
               <a class="external-link button is-light"
-                href="https://scholar.google.com/citations?user=jGcLaSIAAAAJ&hl=en">
+                href="https://scholar.google.com/citations?user={{ site.google_scholar }}">
                 <span class="icon"><i class="ai ai-google-scholar"></i></span>
                 <span>Scholar</span>
               </a>
 
-              <a class="external-link button is-light" href="https://github.com/samhita-m">
+              <a class="external-link button is-light" href="https://github.com/{{ site.github_username }}">
                 <span class="icon"><i class="fab fa-github"></i></span>
                 <span>Github</span>
               </a>
 
-              <a class="external-link button is-light" href="https://twitter.com/m_samhita">
+              <a class="external-link button is-light" href="https://twitter.com/{{ site.twitter_username }}">
                 <span class="icon"><i class="fab fa-twitter"></i></span>
                 <span>Twitter</span>
               </a>
@@ -86,6 +86,7 @@ layout: null
 
   <section class="section">
     <div class="container is-max-desktop">
+
 
       <h2 class="title is-3">Publications</h2>
 
