@@ -1,0 +1,38 @@
+- id: uas
+  title: "An Unmanned Aerial System (UAS) for concurrent measurements of solarinduced chlorophyll fluorescence and hyperspectral reflectance toward improving crop monitoring"
+  venue: Agriculture and Forest Meteorology Volume 294, 2020
+  project_page: "https://www.sciencedirect.com/science/article/abs/pii/S0168192320302471"
+  image: changUAS2020.png
+  authors:
+    - chang
+    - sun
+    - zhou
+    - kira
+    - marri
+    - skovira
+    - gu
+
+- id: automated
+  title: "Automated Synthesis of Modular Manipulators’ Structure and Control for Continuous Tasks around Obstacles"
+  venue: Proceedings of Robotics: Science and Systems 2020
+  project_page: "https://roboticsconference.org/2020/program/papers/30.html"
+  image: thaisAutomated2020.jpg
+  authors:
+    - almedia
+    - marri
+    - hadas
+
+- id: visual
+  title: "Visual Servoing for Pose Control of Soft Continuum Arm in a Structured Environment"
+  venue: RoboSoft-RAL, 2022
+  project_page: "https://www.samhitamarri.com/vs.github.io/"
+  github: samhita-m/visual_servoing_soft_arm
+  arxiv: 2202.05200
+  image: visual2022.jpg
+  authors:
+    - kamtikar
+    - marri
+    - walt
+    - uppalapati
+    - krishnan
+    - chowdhary
