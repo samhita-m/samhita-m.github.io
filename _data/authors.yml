@@ -74,6 +74,27 @@ chowdhary:
   last_name: Chowdhary
   website: http://daslab.illinois.edu/index.html#girish
 
- 
+deng:
+  first_name: Junchen
+  last_name: Deng
+  website: 
 
+klein:
+  first_name: Jonathan
+  last_name: Klein
+  website: https://jonathank.de/research/
 
+pałubicki:
+  first_name: Wojtek
+  last_name: Pałubicki
+  website: https://scholar.google.com/citations?user=J8WO_c0AAAAJ&hl=en
+  
+pirk:
+  first_name: Sören
+  last_name: Pirk
+  website: https://storage.googleapis.com/pirk.io/index.html
+  
+michels:
+  first_name: Dominik 
+  last_name: L Michels
+  website: http://dmichels.de/
