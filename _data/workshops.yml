@@ -1,1 +1,40 @@
+- id: gazebo
+  title: "Gazebo Plants: Simulating Plant-Robot Interaction with Cosserat Rods"
+  venue: CVPR - V4A Workshop, 2024
+  project_page: "https://arxiv.org/abs/2402.02570"
+  arxiv: "https://arxiv.org/abs/2402.02570"
+  image: dengGazebo2024.png
+  authors:
+    - deng
+    - marri
+    - klein
+    - pałubicki
+    - pirk
+    - chowdhary
+    - michels
 
+- id: visual
+  title: "Visual Servoing for Pose Control of Soft Continuum Arm in a Structured Environment"
+  venue: RoboSoft-RAL 2022
+  project_page: "https://www.samhitamarri.com/vs.github.io/"
+  github: samhita-m/visual_servoing_soft_arm
+  arxiv: "https://arxiv.org/abs/2202.05200"
+  image: visual2022.png
+  authors:
+    - kamtikar
+    - marri
+    - walt
+    - uppalapati
+    - krishnan
+    - chowdhary
+
+
+- id: automated
+  title: "Automated Synthesis of Modular Manipulators’ Structure and Control for Continuous Tasks around Obstacles"
+  venue: RSS 2020
+  project_page: "https://roboticsconference.org/2020/program/papers/30.html"
+  image: thaisAutomated2020.png
+  authors:
+    - almedia
+    - marri
+    - hadas
