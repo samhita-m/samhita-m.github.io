@@ -158,32 +158,32 @@ layout: null
     </div>
   </section>
 
-   <section class="section">
+ <section class="section">
     <div class="container is-max-desktop">
 
 
-      <h2 class="title is-3">Workshop</h2>
+      <h2 class="title is-3">Publications</h2>
 
-      {% for workshop in site.data.workshops %}
+      {% for publication in site.data.publications %}
       <div class="publication-block columns">
 
         <div class="column is-2">
-          <div class="publication-image {% if workshop.image_mouseover %}publication-mousecell{% endif %}">
-            {% if workshop.image_mouseover contains "mp4" %}
+          <div class="publication-image {% if publication.image_mouseover %}publication-mousecell{% endif %}">
+            {% if publication.image_mouseover contains "mp4" %}
             <video autoplay preload playsinline class="" height="100%" loop muted width="100%">
-              <source src="./images/{{ workshop.image_mouseover }}" type="video/mp4">
+              <source src="./images/{{ publication.image_mouseover }}" type="video/mp4">
               Your browser does not support the video tag.
             </video>
             {% endif %}
-            <img alt="{{ workshop.title }}" src="./images/{{ workshop.image }}" />
+            <img alt="{{ publication.title }}" src="./images/{{ publication.image }}" />
           </div>
         </div>
 
         <div class="column">
           <div class="content">
-            <h3 class="publication-title"><a href="{{ workshop.project_page }}">{{ workshop.title }}</a></h3>
+            <h3 class="publication-title"><a href="{{ publication.project_page }}">{{ publication.title }}</a></h3>
             <div class="publication-authors">
-              {% for author_id in workshop.authors %}
+              {% for author_id in publication.authors %}
               {% assign author = site.data.authors[author_id] %}
               <span class="author-block {% if author.is_me %}author-me{% endif %}">
                 {% if author.is_me %}
@@ -197,28 +197,28 @@ layout: null
               {% endfor %}
             </div>
             <div class="publication-venue">
-              <span>{{ workshop.venue }}</span>
-              {% for award in workshop.awards %}
+              <span>{{ publication.venue }}</span>
+              {% for award in publication.awards %}
                 <span class="publication-venue-emph">{{ award }}<span>
               {% endfor %}
             </div>
-            {% if workshop.description %}
-            <p class="publication-description">{{ workshop.description }}</p>
+            {% if publication.description %}
+            <p class="publication-description">{{ publication.description }}</p>
             {% endif %}
             <!-- Publication Links. -->
             <div class="publication-links buttons field has-addons">
-              <a class="external-link button is-small is-ghost" href="{{ workshop.project_page }}">
+              <a class="external-link button is-small is-ghost" href="{{ publication.project_page }}">
                 <span class="icon"><i class="fas fa-globe-asia"></i></span>
                 <span>Project Page</span>
               </a>
-              {% if workshop.arxiv %}
-              <a class="external-link button is-small is-ghost" href="{{ workshop.arxiv }}">
+              {% if publication.arxiv %}
+              <a class="external-link button is-small is-ghost" href="{{ publication.arxiv }}">
                 <span class="icon"><i class="ai ai-arxiv"></i></span>
                 <span>arXiv</span>
               </a>
               {% endif %}
-              {% if workshop.github %}
-              <a class="external-link button is-small is-ghost" href="https://github.com/{{ workshop.github }}">
+              {% if publication.github %}
+              <a class="external-link button is-small is-ghost" href="https://github.com/{{ publication.github }}">
                 <span class="icon"><i class="fa fab fa-github"></i></span>
                 <span>Code</span>
               </a>
@@ -231,7 +231,7 @@ layout: null
       {% endfor %}
     </div>
   </section>
-
+   
   <footer class="footer">
     <div class="container">
       <div class="content footer-links has-text-centered">
