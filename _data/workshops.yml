@@ -15,7 +15,7 @@
     
 - id: vsunstructured
   title: "Visual Servoing for Pose Control of Hybrid Continuum Manipulator in an Unstructured Environment"
-  venue: CoRL-L4SR Workshop, 2023
+  venue: CoRL - L4SR Workshop, 2023
   image: visual2023.png
   authors:
     - koe
@@ -28,7 +28,7 @@
 
 - id: towards
   title: "Towards Autonomous Berry Harvesting using Visual Servoing of Soft Continuum Arm "
-  venue: AAAI-AIAFS
+  venue: AAAI - AIAFS Workshop, 2022
   project_page: "https://openreview.net/forum?id=nmFQlTk6WpV"
   image: visual2022.png
   authors:
