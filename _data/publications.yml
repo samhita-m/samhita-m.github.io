@@ -1,7 +1,7 @@
 - id: visual
   title: "Visual Servoing for Pose Control of Soft Continuum Arm in a Structured Environment"
   venue: RoboSoft-RAL 2022
-  project_page: "https://www.samhitamarri.com/vs.github.io/"
+  paper: "https://www.samhitamarri.com/vs.github.io/"
   github: samhita-m/visual_servoing_soft_arm
   arxiv: "https://arxiv.org/abs/2202.05200"
   image: visual2022.png
@@ -17,7 +17,7 @@
 - id: automated
   title: "Automated Synthesis of Modular Manipulators’ Structure and Control for Continuous Tasks around Obstacles"
   venue: RSS 2020
-  project_page: "https://roboticsconference.org/2020/program/papers/30.html"
+  paper: "https://roboticsconference.org/2020/program/papers/30.html"
   image: thaisAutomated2020.png
   authors:
     - almedia
@@ -27,7 +27,7 @@
 - id: uas
   title: "An Unmanned Aerial System (UAS) for concurrent measurements of solarinduced chlorophyll fluorescence and hyperspectral reflectance toward improving crop monitoring"
   venue: Agriculture and Forest Meteorology Volume 294, 2020
-  project_page: "https://www.sciencedirect.com/science/article/abs/pii/S0168192320302471"
+  paper: "https://www.sciencedirect.com/science/article/abs/pii/S0168192320302471"
   image: changUAS2020.png
   authors:
     - chang
