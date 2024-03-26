@@ -1,17 +1,3 @@
-- id: gazebo
-  title: "Gazebo Plants: Simulating Plant-Robot Interaction with Cosserat Rods"
-  venue: CVPR - V4A, 2024
-  arxiv: "https://arxiv.org/abs/2402.02570"
-  image: dengGazebo2024.png
-  authors:
-    - deng
-    - marri
-    - klein
-    - pałubicki
-    - pirk
-    - chowdhary
-    - michels
-    
 - id: vsunstructured
   title: "Visual Servoing for Pose Control of Hybrid Continuum Manipulator in an Unstructured Environment"
   venue: CoRL - L4SR, 2023
