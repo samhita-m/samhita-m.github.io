@@ -1,3 +1,16 @@
+- id: gazeboplants
+  title: "Gazebo Plants: Simulating Plant-Robot Interaction with Cosserat Rods"
+  venue: ICRA - Robotics and Sustainability, 2024
+  image: dengGazebo2024.png
+  authors:
+    - deng
+    - marri
+    - klein
+    - pałubicki
+    - pałubicki
+    - chowdhary 
+    - michels
+    
 - id: vsunstructured
   title: "Visual Servoing for Pose Control of Hybrid Continuum Manipulator in an Unstructured Environment"
   venue: CoRL - L4SR, 2023
